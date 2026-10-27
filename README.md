@@ -27,8 +27,6 @@ Harness plugins that boot models and tools without patching the runtime.
 
 ### Software factory
 
-Planner → TDD → spec + standards. One issue per worktree. Preview farm for the live cut.
-
 **[llminspect](https://github.com/mawentory/llminspect)** — which LLM that OpenAI-compatible API is actually serving. Tokenizer meter, one-token JSD, serving-stack DNA. Independent signals. Not three clones of the same scan.
 
 - [api-destroyer](https://github.com/mawentory/api-destroyer) — load-test an OpenAI-compatible router against mock upstreams
