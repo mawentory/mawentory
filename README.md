@@ -13,7 +13,7 @@ CyberDog. ROS 2 Galactic, Gazebo, LCM, RViz2 on Ubuntu 20.04. `cyberdog_sim` glu
 
 Sim milestone: dog lying in the field. Gazebo up, quadruped on the grid.
 
-Camera → YOLOv5 + MediaPipe. Open palm and two fingers drive the dog. Chairs are obstacles to go around. Orange Pi on the edge (camera + model). GPU box, 8× RTX 2080 Ti over noVNC, for Gazebo and a lap of the track.
+Camera → YOLOv5 + MediaPipe. Open palm and two fingers drive the dog. Chairs are obstacles to go around. Orange Pi on the edge (camera + model). GPU box, 8× RTX 2080 Ti, for Gazebo and a lap of the track.
 
 ### Agents
 
