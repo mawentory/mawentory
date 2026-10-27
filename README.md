@@ -9,7 +9,7 @@ Robotics, agents, and a software factory.
 
 ### Robotics
 
-CyberDog. ROS 2 Galactic, Gazebo, LCM, RViz2 on Ubuntu 20.04. `cyberdog_sim` glues Gazebo to ROS 2 and forwards LCM state as topics. `cyberdog_locomotion` is the MIT Cheetah-line walk stack. `basic/` is high-level LCM: motion, sequential, moonwalk gait.
+CyberDog. ROS 2 Galactic, Gazebo, LCM, RViz2 on Ubuntu 20.04. `cyberdog_sim` glues Gazebo to ROS 2 and forwards LCM state as topics. `cyberdog_locomotion` is the Cheetah-line walk stack. `basic/` is high-level LCM: motion, sequential, moonwalk gait.
 
 Sim milestone: dog lying in the field. Gazebo up, quadruped on the grid.
 
